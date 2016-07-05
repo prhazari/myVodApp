@@ -6,4 +6,6 @@ The application web.xml file has been tweeked to invoke php servlet to run php s
 
 Please refer 'myVodApp Quick Start Guide.docx' to build, deploy and run the application. Make sure the system on which you are planning to run the solution has access to internet. The application gets many data online and it is not maintain locally.
 
-The answers to design questions are captured in 'DesignQuestionsAnswers.txt'
+The answers to design questions are captured in 'DesignQuestionsAnswers.txt'. 
+
+The folder 'screenShots' contains few screen shots of the webpage.
