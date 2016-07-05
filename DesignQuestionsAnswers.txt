@@ -1,0 +1,21 @@
+1.	Describe the data you would capture as part of this service.
+Ans: Below statiscs could be captured:
+      - Total no. of unique users[remote host] those have viewed the website.
+      - How many times the website is being access per week/month.
+      - Health of the hosting server: Memory/CPU usage.
+      
+2.	How would make this service more efficient?
+Ans: 
+    - Enable authenticatied access by a user. Individual a/c could be given. 
+    - Support HTTPS connection to secure the connection.
+    - Segregate the movies into different categories like: Box Office Hit, New Release, Genere etc.
+    - Provide a small summary of the movie: Story line, directors, actors.
+    
+3.	Once the feature is complete, how would you know that it’s ready for go-live?
+Ans: The whole solution should have gone through internal cycles of UT, IT and finally Accpetance test by customer or representative.
+    The reports should be maintained for cross reference. Before deploying to prodcution system, the solution should have been tested
+    thoroughly of pre-production network/system.
+    
+4.	How would you determine if this feature is successful?
+Ans: The data captured in answers to first question should give a inital acceptance of the solution and forecast of new users.
+     Also the amount of support cases riase should give a rough view of the stability of the system.
