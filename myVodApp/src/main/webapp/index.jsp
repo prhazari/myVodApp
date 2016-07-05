@@ -96,8 +96,8 @@
       <div class="row" style="background: #808080">
         <table class="col-md-12">              
             <tr>
-                <td class="col-lg-6"><a href="javascript:showHome()"><h1>Home</h1></a></td>
-                <td class="col-lg-6"><a href="javascript:showHistory()"><h1 style="text-align: right">History</h1></a></td>
+                <td class="col-xs-6"><a href="javascript:showHome()"><h1>Home</h1></a></td>
+                <td class="col-xs-6"><a href="javascript:showHistory()"><h1 style="text-align: right">History</h1></a></td>
             </tr>                   
         </table>
       </div>
